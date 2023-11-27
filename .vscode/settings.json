@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "PRG.C": "cpp",
+        "*.asm": "c"
+    }
+}
